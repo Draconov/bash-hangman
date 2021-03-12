@@ -1,3 +1,4 @@
+#!/bin/bash
 #переменные для слов и остального
 declare -a word
 declare -a word_img
